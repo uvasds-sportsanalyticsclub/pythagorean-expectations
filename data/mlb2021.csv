@@ -76,8 +76,8 @@
 153,"Thursday, Sep 23",BAL,TEX,3.0,0.0,9.0,Lowther,Otto,Wells,2:46,6328.0
 154,"Friday, Sep 24",BAL,TEX,5.0,8.0,9.0,Sborz,Greene,Barlow,3:33,7935.0
 155,"Saturday, Sep 25",BAL,TEX,3.0,2.0,9.0,Kriske,Lyles,Tate,2:54,10645.0
-156,"Sunday, Sep 26",BAL,TEX,,,,,,,,
-157,"Tuesday, Sep 28",BAL,BOS,,,,,,,,
+156,"Sunday, Sep 26",BAL,TEX,4.0,7.0,9.0,Cotton,Means,Barlow,3:11,13495.0
+157,"Tuesday, Sep 28",BAL,BOS,4.0,2.0,9.0,Diplan,Sale,Sulser,2:37,8098.0
 158,"Wednesday, Sep 29",BAL,BOS,,,,,,,,
 159,"Thursday, Sep 30",BAL,BOS,,,,,,,,
 1,"Friday, Apr 2",BOS,BAL,0.0,3.0,9.0,Means,Eovaldi,Valdez,3:10,4452.0
@@ -160,7 +160,7 @@
 153,"Wednesday, Sep 22",BOS,NYM,12.0,5.0,9.0,Sale,Walker,None,3:42,30254.0
 154,"Friday, Sep 24",BOS,NYY,3.0,8.0,9.0,Cole,Eovaldi,None,3:31,36026.0
 155,"Saturday, Sep 25",BOS,NYY,3.0,5.0,9.0,Severino,Houck,Chapman,3:33,36103.0
-156,"Sunday, Sep 26",BOS,NYY,,,,,,,,
+156,"Sunday, Sep 26",BOS,NYY,3.0,6.0,9.0,Green,Richards,Chapman,3:42,36312.0
 8,"Thursday, Apr 8",CHW,KCR,6.0,0.0,9.0,Lynn,Keller,None,2:48,8207.0
 9,"Sunday, Apr 11",CHW,KCR,3.0,4.0,10.0,Holland,Crochet,Zimmer,3:54,7695.0
 10,"Monday, Apr 12",CHW,CLE,4.0,3.0,9.0,Heuer,Clase,None,3:05,7393.0
@@ -237,7 +237,7 @@
 144,"Tuesday, Sep 14",CHW,LAA,9.0,3.0,9.0,Bummer,Naughton,None,3:21,21848.0
 145,"Wednesday, Sep 15",CHW,LAA,2.0,3.0,9.0,Mayers,Kopech,Iglesias,3:12,26505.0
 146,"Thursday, Sep 16",CHW,LAA,3.0,9.0,9.0,Cobb,Lopez,None,3:16,27098.0
-158,"Tuesday, Sep 28",CHW,CIN,,,,,,,,
+158,"Tuesday, Sep 28",CHW,CIN,7.0,1.0,9.0,Lopez,O'Brien,None,2:49,25242.0
 159,"Wednesday, Sep 29",CHW,CIN,,,,,,,,
 160,"Friday, Oct 1",CHW,DET,,,,,,,,
 161,"Saturday, Oct 2",CHW,DET,,,,,,,,
@@ -321,8 +321,8 @@
 152,"Thursday, Sep 23 (2)",CLE,CHW,5.0,3.0,7.0,Clase,Ruiz,None,2:34,11336.0
 153,"Friday, Sep 24",CLE,CHW,0.0,1.0,9.0,Cease,Stephan,Hendriks,2:48,18576.0
 154,"Saturday, Sep 25",CLE,CHW,6.0,0.0,9.0,Morgan,Lynn,None,2:40,24082.0
-155,"Sunday, Sep 26",CLE,CHW,,,,,,,,
-156,"Monday, Sep 27",CLE,KCR,,,,,,,,
+155,"Sunday, Sep 26",CLE,CHW,2.0,5.0,9.0,Giolito,McKenzie,Hendriks,3:38,21957.0
+156,"Monday, Sep 27",CLE,KCR,8.0,3.0,9.0,Quantrill,Kowar,None,2:44,13121.0
 1,"Thursday, Apr 1",DET,CLE,3.0,2.0,9.0,Boyd,Bieber,Soto,3:03,8000.0
 2,"Saturday, Apr 3",DET,CLE,5.0,2.0,9.0,Teheran,Plesac,Garcia,3:17,8000.0
 3,"Sunday, Apr 4",DET,CLE,3.0,9.0,9.0,Civale,Norris,None,2:38,8000.0
@@ -402,8 +402,8 @@
 152,"Tuesday, Sep 21",DET,CHW,5.0,3.0,9.0,Garcia,Fry,Fulmer,3:27,10585.0
 153,"Friday, Sep 24",DET,KCR,1.0,3.0,9.0,Tapia,Lange,Barlow,3:07,24877.0
 154,"Saturday, Sep 25",DET,KCR,5.0,1.0,9.0,Hutchison,Tapia,Fulmer,3:00,16424.0
-155,"Sunday, Sep 26",DET,KCR,,,,,,,,
-156,"Monday, Sep 27",DET,CHW,,,,,,,,
+155,"Sunday, Sep 26",DET,KCR,1.0,2.0,9.0,Bubic,Peralta,Barlow,3:18,23788.0
+156,"Monday, Sep 27",DET,CHW,7.0,8.0,9.0,Keuchel,Manning,Hendriks,3:44,11044.0
 7,"Thursday, Apr 8",HOU,OAK,6.0,2.0,9.0,Javier,Irvin,None,3:10,21765.0
 8,"Friday, Apr 9",HOU,OAK,2.0,6.0,9.0,Petit,Abreu,None,3:14,21768.0
 9,"Saturday, Apr 10",HOU,OAK,3.0,7.0,9.0,Montas,Urquidy,None,3:14,21760.0
@@ -479,7 +479,7 @@
 147,"Friday, Sep 17",HOU,ARI,4.0,3.0,10.0,Stanek,Clippard,None,3:40,22595.0
 148,"Saturday, Sep 18",HOU,ARI,4.0,6.0,10.0,Wendelken,Garcia,Clippard,3:44,25314.0
 149,"Sunday, Sep 19",HOU,ARI,7.0,6.0,9.0,Solomon,Sittinger,Pressly,3:17,23888.0
-157,"Tuesday, Sep 28",HOU,TBR,,,,,,,,
+157,"Tuesday, Sep 28",HOU,TBR,4.0,3.0,9.0,Maton,Fleming,None,2:59,32297.0
 158,"Wednesday, Sep 29",HOU,TBR,,,,,,,,
 159,"Thursday, Sep 30",HOU,TBR,,,,,,,,
 160,"Friday, Oct 1",HOU,OAK,,,,,,,,
@@ -560,7 +560,7 @@
 147,"Friday, Sep 17",KCR,SEA,2.0,6.0,9.0,Flexen,Heasley,None,3:35,14904.0
 148,"Saturday, Sep 18",KCR,SEA,8.0,1.0,9.0,Bubic,Kikuchi,None,3:27,20085.0
 149,"Sunday, Sep 19",KCR,SEA,1.0,7.0,9.0,Gilbert,Kowar,None,3:04,16872.0
-157,"Tuesday, Sep 28",KCR,CLE,,,,,,,,
+157,"Tuesday, Sep 28",KCR,CLE,6.0,4.0,9.0,Staumont,Parker,None,3:24,11670.0
 158,"Wednesday, Sep 29",KCR,CLE,,,,,,,,
 159,"Thursday, Sep 30",KCR,CLE,,,,,,,,
 160,"Friday, Oct 1",KCR,MIN,,,,,,,,
@@ -647,7 +647,7 @@
 153,"Thursday, Sep 23",LAA,HOU,3.0,2.0,9.0,Warren,McCullers,Iglesias,3:18,19829.0
 154,"Friday, Sep 24",LAA,SEA,5.0,6.0,9.0,Smith,Herget,Sewald,3:40,18551.0
 155,"Saturday, Sep 25",LAA,SEA,14.0,1.0,9.0,Diaz,Anderson,None,3:07,30221.0
-156,"Sunday, Sep 26",LAA,SEA,,,,,,,,
+156,"Sunday, Sep 26",LAA,SEA,1.0,5.0,9.0,Gonzales,Quijada,None,3:09,22057.0
 7,"Thursday, Apr 8",MIN,SEA,10.0,2.0,9.0,Berrios,Gonzales,None,3:27,9675.0
 8,"Saturday, Apr 10",MIN,SEA,3.0,4.0,10.0,Graveman,Rogers,Middleton,3:14,9817.0
 9,"Sunday, Apr 11",MIN,SEA,6.0,8.0,9.0,Steckenrider,Colome,Montero,3:28,9792.0
@@ -725,8 +725,8 @@
 153,"Thursday, Sep 23",MIN,TOR,7.0,2.0,9.0,Pineda,Hatch,Garza,3:34,15509.0
 154,"Friday, Sep 24",MIN,TOR,3.0,1.0,9.0,Ober,Berrios,Colome,2:38,18861.0
 155,"Saturday, Sep 25",MIN,TOR,1.0,6.0,9.0,Ray,Gant,None,3:18,27183.0
-156,"Sunday, Sep 26",MIN,TOR,,,,,,,,
-157,"Tuesday, Sep 28",MIN,DET,,,,,,,,
+156,"Sunday, Sep 26",MIN,TOR,2.0,5.0,9.0,Manoah,Jax,Romano,3:27,20676.0
+157,"Tuesday, Sep 28",MIN,DET,3.0,2.0,9.0,Thielbar,Alexander,Colome,3:03,16329.0
 158,"Wednesday, Sep 29",MIN,DET,,,,,,,,
 159,"Thursday, Sep 30",MIN,DET,,,,,,,,
 1,"Thursday, Apr 1",NYY,TOR,2.0,3.0,10.0,Romano,Nelson,Merryweather,3:44,10850.0
@@ -890,7 +890,7 @@
 153,"Thursday, Sep 23",OAK,SEA,5.0,6.0,9.0,Smith,Diekman,Sewald,3:16,4966.0
 154,"Friday, Sep 24",OAK,HOU,14.0,2.0,9.0,Montas,Bielak,None,3:46,21105.0
 155,"Saturday, Sep 25",OAK,HOU,2.0,1.0,9.0,Chafin,Pressly,None,2:49,13037.0
-156,"Sunday, Sep 26",OAK,HOU,,,,,,,,
+156,"Sunday, Sep 26",OAK,HOU,4.0,3.0,9.0,Trivino,Stanek,None,3:37,12288.0
 1,"Thursday, Apr 1",SEA,SFG,8.0,7.0,10.0,Misiewicz,Alvarez,None,3:45,8174.0
 2,"Friday, Apr 2",SEA,SFG,3.0,6.0,9.0,Peralta,Steckenrider,McGee,3:16,8392.0
 3,"Saturday, Apr 3",SEA,SFG,4.0,0.0,9.0,Flexen,Webb,Montero,2:59,8651.0
@@ -966,8 +966,8 @@
 144,"Monday, Sep 13",SEA,BOS,5.0,4.0,9.0,Castillo,Brasier,Steckenrider,3:11,18219.0
 145,"Tuesday, Sep 14",SEA,BOS,4.0,8.0,9.0,Ottavino,Smith,None,3:59,19887.0
 146,"Wednesday, Sep 15",SEA,BOS,4.0,9.0,10.0,Ottavino,Swanson,None,3:58,17860.0
-157,"Monday, Sep 27",SEA,OAK,,,,,,,,
-158,"Tuesday, Sep 28",SEA,OAK,,,,,,,,
+157,"Monday, Sep 27",SEA,OAK,13.0,4.0,9.0,Flexen,Irvin,None,3:20,11169.0
+158,"Tuesday, Sep 28",SEA,OAK,4.0,2.0,9.0,Misiewicz,Petit,Steckenrider,3:08,12635.0
 159,"Wednesday, Sep 29",SEA,OAK,,,,,,,,
 160,"Friday, Oct 1",SEA,LAA,,,,,,,,
 161,"Saturday, Oct 2",SEA,LAA,,,,,,,,
@@ -1052,7 +1052,7 @@
 153,"Wednesday, Sep 22",TBR,TOR,7.0,1.0,9.0,Chargois,Stripling,None,3:20,10994.0
 154,"Friday, Sep 24",TBR,MIA,8.0,0.0,9.0,Yarbrough,Cabrera,None,2:59,15340.0
 155,"Saturday, Sep 25",TBR,MIA,7.0,3.0,9.0,McClanahan,Alcantara,None,2:59,23783.0
-156,"Sunday, Sep 26",TBR,MIA,,,,,,,,
+156,"Sunday, Sep 26",TBR,MIA,3.0,2.0,9.0,Baz,Luzardo,Anderson,2:54,20826.0
 4,"Monday, Apr 5",TEX,TOR,2.0,6.0,9.0,Matz,Foltynewicz,None,3:04,38238.0
 5,"Tuesday, Apr 6",TEX,TOR,7.0,4.0,9.0,Dunning,Roark,Kennedy,2:33,18585.0
 6,"Wednesday, Apr 7",TEX,TOR,2.0,1.0,9.0,Gibson,Ryu,Kennedy,2:33,16876.0
@@ -1128,7 +1128,7 @@
 147,"Friday, Sep 17",TEX,CHW,0.0,8.0,9.0,Cease,Hearn,None,3:27,28288.0
 148,"Saturday, Sep 18",TEX,CHW,2.0,1.0,9.0,Anderson,Lynn,Barlow,3:15,31121.0
 149,"Sunday, Sep 19",TEX,CHW,2.0,7.0,9.0,Giolito,Lyles,None,3:06,24918.0
-157,"Tuesday, Sep 28",TEX,LAA,,,,,,,,
+157,"Tuesday, Sep 28",TEX,LAA,5.0,2.0,9.0,Alexy,Naughton,Barlow,2:59,20066.0
 158,"Wednesday, Sep 29",TEX,LAA,,,,,,,,
 159,"Thursday, Sep 30",TEX,LAA,,,,,,,,
 160,"Friday, Oct 1",TEX,CLE,,,,,,,,
@@ -1208,7 +1208,7 @@
 147,"Friday, Sep 17",TOR,MIN,3.0,7.0,9.0,Pineda,Ryu,None,3:02,14798.0
 148,"Saturday, Sep 18",TOR,MIN,6.0,2.0,9.0,Matz,Ober,None,2:58,14722.0
 149,"Sunday, Sep 19",TOR,MIN,5.0,3.0,9.0,Berrios,Farrell,Romano,2:58,14601.0
-157,"Tuesday, Sep 28",TOR,NYY,,,,,,,,
+157,"Tuesday, Sep 28",TOR,NYY,2.0,7.0,9.0,King,Ryu,None,3:36,28769.0
 158,"Wednesday, Sep 29",TOR,NYY,,,,,,,,
 159,"Thursday, Sep 30",TOR,NYY,,,,,,,,
 160,"Friday, Oct 1",TOR,BAL,,,,,,,,
@@ -1291,7 +1291,7 @@
 153,"Thursday, Sep 23",ARI,ATL,6.0,4.0,9.0,Poppen,Webb,Wendelken,2:56,6880.0
 154,"Friday, Sep 24",ARI,LAD,2.0,4.0,9.0,Gonsolin,Castellanos,Jansen,2:59,19001.0
 155,"Saturday, Sep 25",ARI,LAD,7.0,2.0,9.0,Gallen,Kershaw,None,3:07,28026.0
-156,"Sunday, Sep 26",ARI,LAD,,,,,,,,
+156,"Sunday, Sep 26",ARI,LAD,0.0,3.0,9.0,Urias,Mejia,Jansen,3:28,16648.0
 160,"Friday, Oct 1",ARI,COL,,,,,,,,
 161,"Saturday, Oct 2",ARI,COL,,,,,,,,
 162,"Sunday, Oct 3",ARI,COL,,,,,,,,
@@ -1369,7 +1369,7 @@
 143,"Sunday, Sep 12",ATL,MIA,5.0,3.0,9.0,Webb,Bass,Smith,3:17,27847.0
 144,"Tuesday, Sep 14",ATL,COL,4.0,5.0,9.0,Gray,Toussaint,Estevez,3:12,22579.0
 145,"Wednesday, Sep 15",ATL,COL,2.0,3.0,10.0,Estevez,Minter,Stephenson,4:16,21382.0
-156,"Tuesday, Sep 28",ATL,PHI,,,,,,,,
+156,"Tuesday, Sep 28",ATL,PHI,2.0,1.0,9.0,Morton,Wheeler,Smith,2:46,29238.0
 157,"Wednesday, Sep 29",ATL,PHI,,,,,,,,
 158,"Thursday, Sep 30",ATL,PHI,,,,,,,,
 159,"Friday, Oct 1",ATL,NYM,,,,,,,,
@@ -1455,7 +1455,7 @@
 153,"Friday, Sep 24 (1)",CHC,STL,5.0,8.0,7.0,Reyes,Steele,Gallegos,2:39,29030.0
 154,"Friday, Sep 24 (2)",CHC,STL,4.0,12.0,7.0,Hudson,Davies,None,2:41,35020.0
 155,"Saturday, Sep 25",CHC,STL,5.0,8.0,9.0,Kim,Heuer,None,3:18,32918.0
-156,"Sunday, Sep 26",CHC,STL,,,,,,,,
+156,"Sunday, Sep 26",CHC,STL,2.0,4.0,9.0,Cabrera,Heuer,Gallegos,3:36,26547.0
 1,"Thursday, Apr 1",CIN,STL,6.0,11.0,9.0,Gallegos,Castillo,None,3:31,12264.0
 2,"Saturday, Apr 3",CIN,STL,9.0,6.0,9.0,Mahle,Wainwright,None,3:24,12213.0
 3,"Sunday, Apr 4",CIN,STL,12.0,1.0,9.0,Hoffman,Martinez,None,3:00,11629.0
@@ -1535,8 +1535,8 @@
 153,"Thursday, Sep 23",CIN,WSN,2.0,3.0,9.0,Corbin,Castillo,Finnegan,3:09,11836.0
 154,"Friday, Sep 24",CIN,WSN,8.0,7.0,11.0,Warren,Thompson,None,4:24,16021.0
 155,"Saturday, Sep 25",CIN,WSN,7.0,6.0,9.0,Givens,Murphy,None,3:41,18293.0
-156,"Sunday, Sep 26",CIN,WSN,,,,,,,,
-157,"Monday, Sep 27",CIN,PIT,,,,,,,,
+156,"Sunday, Sep 26",CIN,WSN,9.0,2.0,9.0,Mahle,Rogers,None,3:43,21328.0
+157,"Monday, Sep 27",CIN,PIT,13.0,1.0,9.0,Sanmartin,Overton,None,3:11,11055.0
 1,"Thursday, Apr 1",COL,LAD,8.0,5.0,9.0,Gonzalez,Kershaw,Bard,3:46,20570.0
 2,"Friday, Apr 2",COL,LAD,6.0,11.0,9.0,Bauer,Senzatela,None,3:19,20363.0
 3,"Saturday, Apr 3",COL,LAD,5.0,6.0,9.0,Treinen,Givens,Jansen,3:35,20688.0
@@ -1614,9 +1614,9 @@
 152,"Thursday, Sep 23",COL,LAD,5.0,7.0,10.0,Jansen,Gilbreath,Treinen,4:01,22356.0
 153,"Friday, Sep 24",COL,SFG,2.0,7.0,9.0,Castro,Goudeau,None,3:06,41613.0
 154,"Saturday, Sep 25",COL,SFG,2.0,7.0,9.0,Watson,Gray,None,3:36,45063.0
-155,"Sunday, Sep 26",COL,SFG,,,,,,,,
-156,"Monday, Sep 27",COL,WSN,,,,,,,,
-157,"Tuesday, Sep 28",COL,WSN,,,,,,,,
+155,"Sunday, Sep 26",COL,SFG,2.0,6.0,9.0,Doval,Bard,None,3:31,31043.0
+156,"Monday, Sep 27",COL,WSN,4.0,5.0,9.0,Gray,Marquez,Rainey,3:45,20388.0
+157,"Tuesday, Sep 28",COL,WSN,3.0,1.0,9.0,Freeland,Corbin,Estevez,3:00,21693.0
 158,"Wednesday, Sep 29",COL,WSN,,,,,,,,
 8,"Friday, Apr 9",LAD,WSN,1.0,0.0,9.0,Buehler,Avilan,Knebel,2:31,15036.0
 9,"Saturday, Apr 10",LAD,WSN,9.0,5.0,9.0,Urias,Corbin,None,3:11,15021.0
@@ -1693,7 +1693,7 @@
 145,"Monday, Sep 13",LAD,ARI,5.0,1.0,9.0,Bickford,Gallen,None,3:15,43273.0
 146,"Tuesday, Sep 14",LAD,ARI,8.0,4.0,9.0,Gonsolin,Weaver,None,3:14,44630.0
 147,"Wednesday, Sep 15",LAD,ARI,5.0,3.0,9.0,Urias,Kelly,Jansen,3:26,46520.0
-157,"Tuesday, Sep 28",LAD,SDP,,,,,,,,
+157,"Tuesday, Sep 28",LAD,SDP,2.0,1.0,9.0,Buehler,Darvish,Treinen,3:04,52128.0
 158,"Wednesday, Sep 29",LAD,SDP,,,,,,,,
 159,"Thursday, Sep 30",LAD,SDP,,,,,,,,
 160,"Friday, Oct 1",LAD,MIL,,,,,,,,
@@ -1860,7 +1860,10 @@
 153,"Thursday, Sep 23",MIL,STL,5.0,8.0,9.0,McFarland,Ashby,Gallegos,3:31,30804.0
 154,"Friday, Sep 24",MIL,NYM,5.0,1.0,9.0,Lauer,Megill,None,2:56,27452.0
 155,"Saturday, Sep 25",MIL,NYM,2.0,1.0,9.0,Burnes,Hill,Hader,3:16,35388.0
-156,"Sunday, Sep 26",MIL,NYM,,,,,,,,
+156,"Sunday, Sep 26",MIL,NYM,8.0,4.0,9.0,Peralta,Carrasco,None,3:24,43430.0
+163,"Friday, Oct 8",MIL,,,,,,,,,
+164,"Saturday, Oct 9",MIL,,,,,,,,,
+165,"Thursday, Oct 14",MIL,,,,,,,,,
 4,"Thursday, Apr 8",NYM,MIA,3.0,2.0,9.0,Diaz,Bass,None,3:18,8492.0
 5,"Saturday, Apr 10",NYM,MIA,0.0,3.0,9.0,Rogers,deGrom,Garcia,2:36,8419.0
 6,"Sunday, Apr 11",NYM,MIA,6.0,5.0,9.0,Familia,Floro,None,4:05,8199.0
@@ -1938,8 +1941,8 @@
 148,"Friday, Sep 17",NYM,PHI,3.0,4.0,9.0,Wheeler,Walker,Kennedy,3:52,26967.0
 149,"Saturday, Sep 18",NYM,PHI,3.0,5.0,9.0,Nola,Carrasco,Kennedy,3:35,33442.0
 150,"Sunday, Sep 19",NYM,PHI,3.0,2.0,9.0,Loup,Gibson,Diaz,3:34,24832.0
-156,"Tuesday, Sep 28",NYM,MIA,,,,,,,,
-157,"Tuesday, Sep 28",NYM,MIA,,,,,,,,
+156,"Tuesday, Sep 28 (1)",NYM,MIA,5.0,2.0,7.0,Stroman,Thompson,Diaz,2:22,
+157,"Tuesday, Sep 28 (2)",NYM,MIA,2.0,1.0,9.0,Hand,Bass,None,2:59,20647.0
 158,"Wednesday, Sep 29",NYM,MIA,,,,,,,,
 159,"Thursday, Sep 30",NYM,MIA,,,,,,,,
 1,"Thursday, Apr 1",PHI,ATL,3.0,2.0,10.0,Brogdon,Jones,None,3:33,8529.0
@@ -2022,7 +2025,7 @@
 153,"Thursday, Sep 23",PHI,PIT,12.0,6.0,9.0,Nola,Banda,None,3:21,16154.0
 154,"Friday, Sep 24",PHI,PIT,8.0,6.0,9.0,Neris,Shreve,Kennedy,3:39,20548.0
 155,"Saturday, Sep 25",PHI,PIT,3.0,0.0,9.0,Suarez,Crowe,None,2:33,28135.0
-156,"Sunday, Sep 26",PHI,PIT,,,,,,,,
+156,"Sunday, Sep 26",PHI,PIT,0.0,6.0,9.0,Kranick,Crouse,None,3:31,29336.0
 7,"Thursday, Apr 8",PIT,CHC,2.0,4.0,9.0,Arrieta,Anderson,Kimbrel,3:15,7749.0
 8,"Saturday, Apr 10",PIT,CHC,8.0,2.0,9.0,Keller,Davies,None,3:07,7052.0
 9,"Sunday, Apr 11",PIT,CHC,7.0,1.0,9.0,Brubaker,Williams,None,3:02,6851.0
@@ -2098,7 +2101,7 @@
 144,"Tuesday, Sep 14",PIT,CIN,6.0,5.0,9.0,Peters,Miley,Stratton,3:00,8896.0
 145,"Wednesday, Sep 15",PIT,CIN,5.0,4.0,9.0,Stratton,Givens,None,3:03,9320.0
 146,"Thursday, Sep 16",PIT,CIN,0.0,1.0,9.0,Mahle,Ponce,Givens,3:05,9102.0
-157,"Tuesday, Sep 28",PIT,CHC,,,,,,,,
+157,"Tuesday, Sep 28",PIT,CHC,8.0,6.0,9.0,De Los Santos,Morgan,Stratton,3:04,9218.0
 158,"Wednesday, Sep 29",PIT,CHC,,,,,,,,
 159,"Thursday, Sep 30",PIT,CHC,,,,,,,,
 160,"Friday, Oct 1",PIT,CIN,,,,,,,,
@@ -2184,7 +2187,7 @@
 153,"Thursday, Sep 23",SDP,SFG,7.0,6.0,10.0,Detwiler,Leone,None,4:10,31049.0
 154,"Friday, Sep 24",SDP,ATL,0.0,4.0,9.0,Fried,Knehr,None,2:28,33265.0
 155,"Saturday, Sep 25",SDP,ATL,8.0,10.0,10.0,Rodriguez,Hudson,Smith,4:07,39026.0
-156,"Sunday, Sep 26",SDP,ATL,,,,,,,,
+156,"Sunday, Sep 26",SDP,ATL,3.0,4.0,9.0,Minter,Johnson,Smith,3:48,41294.0
 7,"Friday, Apr 9",SFG,COL,3.0,1.0,9.0,Cueto,Gomber,McGee,2:54,7390.0
 8,"Saturday, Apr 10",SFG,COL,4.0,3.0,9.0,Baragar,Bowden,McGee,3:13,6176.0
 9,"Sunday, Apr 11",SFG,COL,4.0,0.0,9.0,DeSclafani,Marquez,None,3:00,6560.0
@@ -2260,7 +2263,7 @@
 148,"Friday, Sep 17",SFG,ATL,6.0,5.0,11.0,Doval,Webb,None,3:15,26644.0
 149,"Saturday, Sep 18",SFG,ATL,2.0,0.0,9.0,Littell,Morton,Leone,2:40,32058.0
 150,"Sunday, Sep 19",SFG,ATL,0.0,3.0,9.0,Fried,DeSclafani,Smith,2:51,32210.0
-157,"Tuesday, Sep 28",SFG,ARI,,,,,,,,
+157,"Tuesday, Sep 28",SFG,ARI,6.0,4.0,9.0,Alvarez,Poppen,Doval,3:42,28122.0
 158,"Wednesday, Sep 29",SFG,ARI,,,,,,,,
 159,"Thursday, Sep 30",SFG,ARI,,,,,,,,
 160,"Friday, Oct 1",SFG,SDP,,,,,,,,
@@ -2341,7 +2344,7 @@
 146,"Friday, Sep 17",STL,SDP,8.0,2.0,9.0,Mikolas,Velasquez,None,3:13,30937.0
 147,"Saturday, Sep 18",STL,SDP,3.0,2.0,9.0,Miller,Pagan,Gallegos,2:59,40626.0
 148,"Sunday, Sep 19",STL,SDP,8.0,7.0,9.0,Reyes,Arrieta,Gallegos,3:16,35326.0
-157,"Tuesday, Sep 28",STL,MIL,,,,,,,,
+157,"Tuesday, Sep 28",STL,MIL,6.0,2.0,9.0,Wainwright,Gustave,None,2:54,35726.0
 158,"Wednesday, Sep 29",STL,MIL,,,,,,,,
 159,"Thursday, Sep 30",STL,MIL,,,,,,,,
 160,"Friday, Oct 1",STL,CHC,,,,,,,,
